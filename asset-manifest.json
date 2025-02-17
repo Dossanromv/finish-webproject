@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Dossanromv/Finish-Web-Project.git/static/css/main.2cd95d00.css",
-    "main.js": "/Dossanromv/Finish-Web-Project.git/static/js/main.ba719b6d.js",
-    "static/media/gamebooks.png": "/Dossanromv/Finish-Web-Project.git/static/media/gamebooks.62148324ef572f506332.png",
-    "static/media/lethal.png": "/Dossanromv/Finish-Web-Project.git/static/media/lethal.b8c606ed59f2097fbb75.png",
-    "static/media/fsa.png": "/Dossanromv/Finish-Web-Project.git/static/media/fsa.b079dae0ebc7c8a742e8.png",
-    "static/media/deadcover.png": "/Dossanromv/Finish-Web-Project.git/static/media/deadcover.525461018bf3091e0464.png",
-    "static/media/marketing-speaker-svgrepo-com.svg": "/Dossanromv/Finish-Web-Project.git/static/media/marketing-speaker-svgrepo-com.39871ff1d225cca3c3d9f16577ad6245.svg",
-    "static/media/c-sharp-c.svg": "/Dossanromv/Finish-Web-Project.git/static/media/c-sharp-c.93ba21ebf5c7f4e5fb94538c4c948fec.svg",
-    "static/media/joystick-svgrepo-com.svg": "/Dossanromv/Finish-Web-Project.git/static/media/joystick-svgrepo-com.7c33736b5f22ad93474486acfaa070df.svg",
-    "static/media/c.svg": "/Dossanromv/Finish-Web-Project.git/static/media/c.c2926ce8baf39e14b40727267dbfcd93.svg",
-    "static/media/cube-svgrepo-com.svg": "/Dossanromv/Finish-Web-Project.git/static/media/cube-svgrepo-com.dbd485029ee7bf2d18ee18250f36bde4.svg",
-    "index.html": "/Dossanromv/Finish-Web-Project.git/index.html",
-    "static/media/test-tube-minimalistic-svgrepo-com.svg": "/Dossanromv/Finish-Web-Project.git/static/media/test-tube-minimalistic-svgrepo-com.995bc50693de65a1235687556c75830c.svg",
-    "static/media/user-svgrepo-com.svg": "/Dossanromv/Finish-Web-Project.git/static/media/user-svgrepo-com.50c500cb164943acb22f0c949b73bcd9.svg",
-    "main.2cd95d00.css.map": "/Dossanromv/Finish-Web-Project.git/static/css/main.2cd95d00.css.map",
-    "main.ba719b6d.js.map": "/Dossanromv/Finish-Web-Project.git/static/js/main.ba719b6d.js.map"
+    "main.css": "//dossanromv.github.io/finish-webproject.git/static/css/main.2cd95d00.css",
+    "main.js": "//dossanromv.github.io/finish-webproject.git/static/js/main.86a9333c.js",
+    "static/media/gamebooks.png": "//dossanromv.github.io/finish-webproject.git/static/media/gamebooks.62148324ef572f506332.png",
+    "static/media/lethal.png": "//dossanromv.github.io/finish-webproject.git/static/media/lethal.b8c606ed59f2097fbb75.png",
+    "static/media/fsa.png": "//dossanromv.github.io/finish-webproject.git/static/media/fsa.b079dae0ebc7c8a742e8.png",
+    "static/media/deadcover.png": "//dossanromv.github.io/finish-webproject.git/static/media/deadcover.525461018bf3091e0464.png",
+    "static/media/marketing-speaker-svgrepo-com.svg": "//dossanromv.github.io/finish-webproject.git/static/media/marketing-speaker-svgrepo-com.39871ff1d225cca3c3d9f16577ad6245.svg",
+    "static/media/c-sharp-c.svg": "//dossanromv.github.io/finish-webproject.git/static/media/c-sharp-c.93ba21ebf5c7f4e5fb94538c4c948fec.svg",
+    "static/media/joystick-svgrepo-com.svg": "//dossanromv.github.io/finish-webproject.git/static/media/joystick-svgrepo-com.7c33736b5f22ad93474486acfaa070df.svg",
+    "static/media/c.svg": "//dossanromv.github.io/finish-webproject.git/static/media/c.c2926ce8baf39e14b40727267dbfcd93.svg",
+    "static/media/cube-svgrepo-com.svg": "//dossanromv.github.io/finish-webproject.git/static/media/cube-svgrepo-com.dbd485029ee7bf2d18ee18250f36bde4.svg",
+    "index.html": "//dossanromv.github.io/finish-webproject.git/index.html",
+    "static/media/test-tube-minimalistic-svgrepo-com.svg": "//dossanromv.github.io/finish-webproject.git/static/media/test-tube-minimalistic-svgrepo-com.995bc50693de65a1235687556c75830c.svg",
+    "static/media/user-svgrepo-com.svg": "//dossanromv.github.io/finish-webproject.git/static/media/user-svgrepo-com.50c500cb164943acb22f0c949b73bcd9.svg",
+    "main.2cd95d00.css.map": "//dossanromv.github.io/finish-webproject.git/static/css/main.2cd95d00.css.map",
+    "main.86a9333c.js.map": "//dossanromv.github.io/finish-webproject.git/static/js/main.86a9333c.js.map"
   },
   "entrypoints": [
     "static/css/main.2cd95d00.css",
-    "static/js/main.ba719b6d.js"
+    "static/js/main.86a9333c.js"
   ]
 }
