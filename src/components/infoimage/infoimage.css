@@ -1,0 +1,37 @@
+.Image_all {
+    overflow: hidden;
+    display: flex;
+}
+
+
+.StarPlayer__header-image3 {
+    position: absolute;
+    top: 125rem;
+    left: 27rem;
+}
+
+.StarPlayer__header-image3 img {
+    width: 50%;
+    height: 50%;
+    border-radius: 15px;
+
+}
+
+
+.StarPlayer__header-image2 {
+    position: absolute;
+    top: 125rem;
+    left: 10rem;
+}
+
+.StarPlayer__header-image2 img {
+    width: 50%;
+    height: 90%;
+    border-radius: 15px;
+}
+
+@media screen and (max-width: 1600px) {
+    .Image_all {
+        display: none;
+    }
+}

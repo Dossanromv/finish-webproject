@@ -1,0 +1,186 @@
+.StarPlayer_all-blocks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    padding: 12rem;
+}
+
+p {
+    font-family: var(--font-family);
+    color: var(--color-text);
+}
+
+.OneBlock {
+
+    width: 43rem;
+    height: 34rem;
+    margin: 2rem;
+    background: linear-gradient(var(--color-blog), var(--color-blog)) padding-box,
+              linear-gradient(to right, darkblue, darkorchid) border-box;
+              border-radius: 25px;
+              border: 3px solid transparent;
+}
+
+
+.TwoBlock {
+
+    border-radius: 35px;
+    width: 43rem;
+    height: 34rem;
+    margin: 2rem;
+
+        background: linear-gradient(var(--color-blog), var(--color-blog)) padding-box,
+              linear-gradient(to right, rgb(139, 0, 0), rgb(204, 112, 50)) border-box;
+    border-radius: 25px;
+    border: 3px solid transparent;
+}
+
+
+.ThreeBlock {
+    margin: 2rem;
+    border-radius: 35px;
+    width: 43rem;
+    height: 34rem;
+
+        background: linear-gradient(var(--color-blog), var(--color-blog)) padding-box,
+              linear-gradient(to right, rgb(5, 139, 0), rgb(50, 204, 132)) border-box;
+              border-radius: 25px;
+              border: 3px solid transparent;
+
+}
+
+
+.unity {
+    width: 60%;
+    height: 60%;
+
+}
+
+.OneBlock_info-image {
+    margin-top: 3rem;
+    margin-left: 2.5rem;
+}
+
+.OneBlock-line {
+    width: 23%;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-left: 2.5rem;
+    margin-top: 1rem; 
+}
+
+
+.OneBlock_all-info p {
+    font-size: 1.2rem;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.ThreeBlock-line {
+    width: 23%;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-left: 2.5rem;
+    margin-top: 1rem;
+}
+
+
+.ThreeBlock_info-image {
+    margin-top: 2.5rem;
+    margin-left: 2.5rem;
+}
+
+
+.ThreeBlock_all-info p {
+    font-size: 1.2rem;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.Cc {
+    width: 20%;
+    height: 20%;
+}
+
+
+.Cc2 {
+    width: 20%;
+    height: 20%;
+    margin-left: 1rem;
+}
+
+
+
+@media screen and (max-width: 450px) {
+
+        .StarPlayer_all-blocks {
+            margin: 1rem;
+            padding: 0rem;         
+            display:flex ;
+            flex-direction: column;
+        }
+
+
+    .OneBlock,
+    .TwoBlock,
+    .ThreeBlock {
+        width: 23rem;
+        height: 29rem;
+    }
+    
+
+}
+
+
+@media screen and (max-width: 770px) {
+
+        .StarPlayer_all-blocks {   
+            padding: 0rem;  
+
+        }
+        
+
+    .OneBlock,
+    .TwoBlock,
+    .ThreeBlock {
+        width: 15rem;
+        height: 22rem;
+    }
+    
+
+}
+
+
+@media screen and (max-width: 1460px) {
+
+    .StarPlayer_all-blocks {   
+            padding: 0rem;
+    }
+
+
+
+    .OneBlock,
+    .TwoBlock,
+
+    .ThreeBlock {
+        width: 19rem;
+        height: 25rem;
+    }
+    
+    .ThreeBlock_all-info p {
+        font-size: 0.8rem;
+    }
+}

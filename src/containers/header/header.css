@@ -1,0 +1,340 @@
+/* 
+.StarPlayer__header {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.StarPlayer__header-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+} */ 
+
+/*
+.StarPlayer__header-content h1 {
+    font-family: var(--font-family);
+    font-weight: 200;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    padding-left: 10rem;
+    margin-top: 10rem;
+}
+
+.StarPlayer__header-content p {
+    padding-top: 5rem;
+    padding-left: 10rem;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--color-text);
+    color: #FFF;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 200%; 32px
+    width: 900px;
+    height: 200px;
+}  */
+
+
+/* 
+.StarPlayer__container-input {
+    width: 100%;
+    margin: 2rem 0 1rem;
+    display: flex;
+    flex-direction: row;
+    padding-left: 10rem;
+
+}
+
+
+.StarPlayer__container-input input {
+    padding-left: 10rem;
+    min-height: 50px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    background: var(--color-footer);
+    border: 1px solid var(--color-footer);
+    padding: 0 10rem;
+    outline: none;
+    color: #fff;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.StarPlayer__container-input button {
+    min-height: 50px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    background: #FF4820;
+    border: 2px solid #FF4820;
+    padding: 0 1rem;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+
+
+.StarPlayer_Header-link-logo {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.StarPlayer_Header-link-logo img {
+    width: 100%;
+    height: 100%;
+} */
+
+.StarPlayer__Line-1 {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.50);
+    position: absolute;
+    top: 45rem;
+    right: 1px;
+}
+
+
+.StarPlayer__Line {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.50);
+    position: absolute;
+    top: 90px;
+    right: 1px;
+}
+
+
+.StarPlayer__header {
+    display: flex;
+    flex-direction: row;
+}
+
+.StarPlayer__header-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 3rem;
+    margin: 7rem;
+}
+
+.StarPlayer__header-content h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+}
+
+.StarPlayer__header-content p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #fff;
+    margin-top: 1.5rem;
+}
+
+
+.StarPlayer__header-content__input {
+    width: 75%;
+    margin: 2rem 0 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.StarPlayer__header-content__input input {
+
+    flex: 1;
+    width: 100%;
+    min-height: 50px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    background: #000;
+    border: 2px solid rgba(255, 255, 255, 0.50);
+    padding: 0 1rem;
+    outline: none;
+    color: aliceblue;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+
+.StarPlayer__header-content__input button {
+    flex: 0.4;
+    width: 100%;
+    min-height: 50px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    border: 2px solid rgba(255, 255, 255, 0.50);
+    border-left: none;
+    padding: 0 1rem;
+    color: aliceblue;
+    cursor: pointer;
+    outline: none;
+    background: #000;
+    border-top-right-radius:15px;
+    border-bottom-right-radius: 15px;
+    transition: 200ms;
+}
+
+.StarPlayer__header-content__input button:hover {
+    background:#740eaf;
+}
+
+
+.StarPlayer__header-image {
+    flex: 0.7;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 3rem;
+    margin-right: 5rem;
+}
+
+.StarPlayer__header-image img {
+    width: 90%;
+    height: 90%;
+}
+
+.StarPlayer__header-mini-image-1 {
+    position: absolute;
+    left: 85%;
+    top: 24%;
+}
+
+.StarPlayer__header-mini-image-2 {
+    position: absolute;
+    left: 59%;
+    top: 34%;
+}
+
+.StarPlayer__header-mini-image-3 {
+    position: absolute;
+    left: 90%;
+    top: 55%;
+}
+
+
+
+@media screen and (max-width: 1600px) {
+    .StarPlayer__Line {
+        top: 85px;
+    }
+    .StarPlayer__Line-1 {
+        top: 41.4rem;
+    }
+
+    .StarPlayer__header-image {
+        display: none;
+    }
+    .StarPlayer__header-mini-image-3,
+    .StarPlayer__header-mini-image-2,
+    .StarPlayer__header-mini-image-1 {
+        display: none;
+    }
+}
+@media screen and (max-width: 1050px) {
+    .StarPlayer__header {
+        flex-direction: column;
+    }
+
+    .StarPlayer__header-content {
+        margin: 0 0 3rem;
+    }
+        .StarPlayer__Line {
+        top: 85px;
+    }
+        .StarPlayer__Line-1 {
+display: none;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 650px) {
+    .StarPlayer__header-content h1 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+
+    .StarPlayer__header-content p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    
+
+
+    .StarPlayer__header-content__input input,
+    .StarPlayer__header-content__input button {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .StarPlayer__header-content h1 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+
+    .StarPlayer__header-content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .StarPlayer__header-content__input input,
+    .StarPlayer__header-content__input button {
+        font-size: 12px;
+        line-height: 16px;
+    }
+            .StarPlayer__Line-1 {
+                display: none;
+    }
+}
+
+
+@media screen and (max-width: 1490px) {
+            .StarPlayer__Line-1 {
+        top: 452rem;
+    }
+}
+
+
+@media screen and (max-width: 1550px) {
+            .StarPlayer__Line-1 {
+        top: 42rem;
+    }
+}
+
+@media screen and (max-width: 1550px) {
+                .StarPlayer__Line-1 {
+        top: 47.8rem;
+    }
+}
+

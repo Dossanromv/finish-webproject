@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+body {
+    background: var(--color-bg);
+    background:radial-gradient(circle at 95% 85%, rgba(83, 0, 65) 0%, rgba(24, 4, 22) 45%);
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
+
+div {
+    color: aliceblue;
+}
+
+.Head_bg {
+
+    
+
+  background:-moz-radial-gradient(circle at 3% 25%, rgb(83, 0, 65) 0%, rgb(24, 4, 22) 25%);
+
+  /* safari 5.1+,chrome 10+ */
+  background:-webkit-radial-gradient(circle at 3% 25%, rgba(83, 0, 65) 0%, rgba(24, 4, 22) 25%);
+
+  /* opera 11.10+ */
+  background:-o-radial-gradient(circle at 3% 25%, rgba(83, 0, 65) 0%, rgba(24, 4, 22) 25%);
+
+  /* ie 10+ */
+  background:-ms-radial-gradient(circle at 3% 25%, rgba(83, 0, 65) 0%, rgba(24, 4, 22) 25%);
+
+  /* global 92%+ browsers support */
+  background:radial-gradient(circle at 3% 25%, rgba(83, 0, 65) 0%, rgba(24, 4, 22) 25%);
+}
+            
